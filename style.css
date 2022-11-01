@@ -69,7 +69,8 @@ button {
   margin: 0;
   text-transform: uppercase;
 }
-.list__item_text-input {
+.list__item_text-input, 
+.task-row-wrapper__task {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
